@@ -52,6 +52,11 @@ source venv/bin/activate
 pip3 install -r requirements.txt
 ```
 
+5. Run:
+```bash
+fastapi dev main.py
+```
+
 
 ## 💻 Usage Examples
 
